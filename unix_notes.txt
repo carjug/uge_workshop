@@ -1,0 +1,492 @@
+pwd
+ll -tl
+ll -tr
+ll -t
+
+# a cool fish shortcut to list files
+ll
+
+# a way to list files in long format
+ls -l
+
+# a simple way to list files
+ls
+
+history > moving_around.txt
+cd
+
+# the manual page for less
+man less
+
+# the less pager program version of the history command
+history | less
+
+# a list of history of commands
+history
+
+subl .
+ls .
+../
+ls ~/Downloads
+ls Downloads
+ls ~
+cd codefellows
+ls -1
+ls 1
+cd ~
+cd ../..
+cd ..
+cd magic8Ball/
+cd Projects
+cd CodeFellows/
+cd /users/cajugler/
+man ls
+ls -p
+ls -P
+ls -G
+man
+ls -ltr
+ls -lt
+ls -lrt
+ls - lrt
+ls -lr
+ls -tr
+ls -rt
+ls -t
+cd /
+owd
+pd
+echo $PATH
+git config --global user.email "carjug@gmail.com"
+git config --global user.name "Carly Jugler"
+git --version
+brew install git
+subl /etc/paths
+echo $EDITOR
+echo $e
+subl ~/.config/fish/config.fish
+subl
+curl -fsSL http://git.io/7UHtNA | sh
+git --
+curl -fsSL http://git.io/beJs | ruby
+echo $SHELL
+brew update
+brew doctor
+brew
+
+# the command for unix name
+uname
+
+git init
+git
+hawser
+commit newDeckCards.html
+push newDeckCards.html
+stage newDeckCards.html
+git help -a
+git help -g
+add newDeckCards.html
+git commit
+echo chrome
+open browser
+open chrome
+curl -fsSL http://git.io/QxUaOQ | sh
+set -gx EDITOR 'subl -w'
+# Sublime Text
+ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
+brew info fish
+fish_update_completions
+chsh -s /usr/local/bin/fish
+echo '/usr/local/bin/fish' | sudo tee -a /etc/shells
+brew install fish
+ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/install/master/install)"
+cd rabbitHare
+mv stylesheet_rabbitHare.css rabbitHare
+mv rabbitHare_extended.html rabbitHare
+mv rabbitHare.js rabbitHare
+mv rabbitHare.html rabbitHare
+cd CodeFellows
+cd ~/rabbitHare
+mkdir ~/CodeFellows/Projects/rabbitHare
+cd ../
+../../
+cd .git
+cd repos
+cd ../../
+mv .git repos
+mkdir ~/repos
+cd ~/.git
+open /usr/bin/
+open ~
+open ~/
+which git
+open git
+/usr/bin/git ; exit;
+mv rename terminal_Cheatsheet hints
+mv terminal_Cheatsheet hints
+mv Terminal Cheatsheet for Mac.png hints
+mkdir ~/CodeFellows/hints
+cd ~/CodeFellows
+rename file man
+man rename
+man -n
+n man
+-n man
+-f man
+mv Terminal Cheatsheet for Mac.png reBuild
+cd Desktop
+mkdir ~/CodeFellows/Projects/reBuild
+cd reBuild
+mv rebuildHTML_expansion.html reBuild
+rm rebuildOutline.js
+mv outlineAirbnb.html reBuild
+cd ///
+cd ..?
+mv rebuildOutline.js reBuild
+cd ~/CodeFellows/Projects
+pws
+cd~
+..?
+..
+mv rebuildHTML.html reBuild
+mv ~/CodeFellows/Projects/reBuildHTML.html /reBuild
+mv ~/CodeFellows/Projects/reBuildHTML.html /Projects/reBuild
+mv rebuildHTML.html
+mkdir Projects/reBuild
+alias git="/usr/bin/git"
+alias git="/usr/bin/git/bin/git"
+git -v
+alias git="/usr/local/git"
+alias git="/usr/local/git/bin/git"
+list
+lis
+subl CodeFellows/Projects/newgreeting.html
+git config --global user.name "carjug"
+$ git config --global user.name "carjug"
+open subl
+cd Code Samples
+mkdir ~/CodeFellows/Code Samples
+mkdir
+open ~/CodeFellows/Code Samples
+open usr
+cd cajugler
+cd Public
+/..
+cd Sites
+cd ls
+open newgame.html
+open greeting.html
+open greeting.html
+touch greeting.html
+cd Porjects
+cd projects
+mkdir ~/CodeFellows/Projects
+open ~/CodeFellows/greeting.html
+cd ~/CodeFellows/greeting.html
+open file.demo
+mkdir ~/CodeFellows/
+open html.demo
+open demo.html
+open demo.htl
+ls -la
+chmod
+mkdir CodeFellows
+mkdir ~/CodeFellows
+mkdir ~/CodeFellows/greeting
+mkdir ~/CodeFellows/Feb2
+mkdir /CodeFellows/Feb2
+cd/CodeFellows
+cd ~/Applications
+open /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl
+open e- subl
+ln -s "/Applications/Sublime Text 2.app/Contents/SharedSupport/bin/subl" ~/bin/subl
+/Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl
+cd ~/
+$PATH
+ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/sublime
+open ~/.bash_profile
+/Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl ; exit;
+source ~/.bash_profile
+. .bash_profile
+open -e .bash_profile
+touch .bash_profile
+open -a Finder /usr/bin
+ln -s
+sub
+man sudo
+ sudo launchctl load -w /System/Library/LaunchDaemons/com.apple.locate.plist
+locate Sublime
+cd /Applications/Sublime Text 2.app
+find /Applications -name "Sublime Text 2.app"
+mdfind /Applications/Sublime
+ls /Applications
+ls -al /Applications
+cd /Applications
+cat /Applications/Sublime
+cd /Applications/Sublime
+ls /Applications/Sublime\ Text\ 2.app
+ls /Applications/Sublime
+ls /Applications/Sublimepwd
+cp /Applications/Sublime
+ls /Applications/Sublime Text 2.app
+ls ~/Applications
+mkdir ~/Applications
+find ~/Applications/Sublime
+find /Applications/Sublime
+find Sublime
+mkdir -pv linuxtutorial/awesome/cool
+cd ~/CodeFellows/linuxtutorial
+cd linuxtutorial
+mkdir ~/CodeFellows/linuxtutorial
+man cd
+man <command to look up>
+man <command to look up
+man<command to look up>
+file[path]
+./
+../../.
+ls/usr/bin
+ls/bin
+cd/var/log
+/var/log
+ls/var/log
+ls /etc
+cd ls/etc
+ll
+history > moving_around.txt
+pwd
+ll -tl
+ll -tr
+ll -t
+ls -l
+ls
+cd
+man less
+history | less
+history
+subl .
+ls .
+../
+ls ~/Downloads
+ls Downloads
+ls ~
+cd codefellows
+ls -1
+ls 1
+cd ~
+cd ../..
+cd ..
+cd magic8Ball/
+cd Projects
+cd CodeFellows/
+cd /users/cajugler/
+man ls
+ls -p
+ls -P
+ls -G
+man
+ls -ltr
+ls -lt
+ls -lrt
+ls - lrt
+ls -lr
+ls -tr
+ls -rt
+ls -t
+cd /
+owd
+pd
+echo $PATH
+git config --global user.email "carjug@gmail.com"
+git config --global user.name "Carly Jugler"
+git --version
+brew install git
+subl /etc/paths
+echo $EDITOR
+echo $e
+subl ~/.config/fish/config.fish
+subl
+curl -fsSL http://git.io/7UHtNA | sh
+git --
+curl -fsSL http://git.io/beJs | ruby
+echo $SHELL
+brew update
+brew doctor
+brew
+uname
+ok perf
+git init
+git
+hawser
+commit newDeckCards.html
+push newDeckCards.html
+stage newDeckCards.html
+git help -a
+git help -g
+add newDeckCards.html
+git commit
+echo chrome
+open browser
+open chrome
+curl -fsSL http://git.io/QxUaOQ | sh
+set -gx EDITOR 'subl -w'
+# Sublime Text
+ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
+brew info fish
+fish_update_completions
+chsh -s /usr/local/bin/fish
+echo '/usr/local/bin/fish' | sudo tee -a /etc/shells
+brew install fish
+ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/install/master/install)"
+cd rabbitHare
+mv stylesheet_rabbitHare.css rabbitHare
+mv rabbitHare_extended.html rabbitHare
+mv rabbitHare.js rabbitHare
+mv rabbitHare.html rabbitHare
+cd CodeFellows
+cd ~/rabbitHare
+mkdir ~/CodeFellows/Projects/rabbitHare
+cd ../
+../../
+cd .git
+cd repos
+cd ../../
+mv .git repos
+mkdir ~/repos
+cd ~/.git
+open /usr/bin/
+open ~
+open ~/
+which git
+open git
+/usr/bin/git ; exit;
+mv rename terminal_Cheatsheet hints
+mv terminal_Cheatsheet hints
+mv Terminal Cheatsheet for Mac.png hints
+mkdir ~/CodeFellows/hints
+cd ~/CodeFellows
+rename file man
+man rename
+man -n
+n man
+-n man
+-f man
+mv Terminal Cheatsheet for Mac.png reBuild
+cd Desktop
+mkdir ~/CodeFellows/Projects/reBuild
+cd reBuild
+mv rebuildHTML_expansion.html reBuild
+rm rebuildOutline.js
+mv outlineAirbnb.html reBuild
+cd ///
+cd ..?
+mv rebuildOutline.js reBuild
+cd ~/CodeFellows/Projects
+pws
+cd~
+..?
+..
+mv rebuildHTML.html reBuild
+mv ~/CodeFellows/Projects/reBuildHTML.html /reBuild
+mv ~/CodeFellows/Projects/reBuildHTML.html /Projects/reBuild
+mv rebuildHTML.html
+mkdir Projects/reBuild
+alias git="/usr/bin/git"
+alias git="/usr/bin/git/bin/git"
+git -v
+alias git="/usr/local/git"
+alias git="/usr/local/git/bin/git"
+list
+lis
+subl CodeFellows/Projects/newgreeting.html
+git config --global user.name "carjug"
+$ git config --global user.name "carjug"
+open subl
+cd Code Samples
+mkdir ~/CodeFellows/Code Samples
+mkdir
+open ~/CodeFellows/Code Samples
+open usr
+cd cajugler
+cd Public
+/..
+cd Sites
+cd ls
+open newgame.html
+open greeting.html
+open greeting.html
+touch greeting.html
+cd Porjects
+cd projects
+mkdir ~/CodeFellows/Projects
+open ~/CodeFellows/greeting.html
+cd ~/CodeFellows/greeting.html
+open file.demo
+mkdir ~/CodeFellows/
+open html.demo
+open demo.html
+open demo.htl
+ls -la
+chmod
+mkdir CodeFellows
+mkdir ~/CodeFellows
+mkdir ~/CodeFellows/greeting
+mkdir ~/CodeFellows/Feb2
+mkdir /CodeFellows/Feb2
+cd/CodeFellows
+cd ~/Applications
+open /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl
+open e- subl
+ln -s "/Applications/Sublime Text 2.app/Contents/SharedSupport/bin/subl" ~/bin/subl
+/Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl
+cd ~/
+$PATH
+ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/sublime
+open ~/.bash_profile
+/Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl ; exit;
+source ~/.bash_profile
+. .bash_profile
+open -e .bash_profile
+touch .bash_profile
+open -a Finder /usr/bin
+ln -s
+sub
+man sudo
+ sudo launchctl load -w /System/Library/LaunchDaemons/com.apple.locate.plist
+locate Sublime
+cd /Applications/Sublime Text 2.app
+find /Applications -name "Sublime Text 2.app"
+mdfind /Applications/Sublime
+ls /Applications
+ls -al /Applications
+cd /Applications
+cat /Applications/Sublime
+cd /Applications/Sublime
+ls /Applications/Sublime\ Text\ 2.app
+ls /Applications/Sublime
+ls /Applications/Sublimepwd
+cp /Applications/Sublime
+ls /Applications/Sublime Text 2.app
+ls ~/Applications
+mkdir ~/Applications
+find ~/Applications/Sublime
+find /Applications/Sublime
+find Sublime
+mkdir -pv linuxtutorial/awesome/cool
+cd ~/CodeFellows/linuxtutorial
+cd linuxtutorial
+mkdir ~/CodeFellows/linuxtutorial
+man cd
+man <command to look up>
+man <command to look up
+man<command to look up>
+file[path]
+./
+../../.
+ls/usr/bin
+ls/bin
+cd/var/log
+/var/log
+ls/var/log
+ls /etc
+cd ls/etc
