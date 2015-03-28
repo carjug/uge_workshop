@@ -1,3 +1,5 @@
+git pull is how you make a pull request on GitHub
+
 GitHub is a hub of .git/ directories
 
 You can push and pull commits to and from .git/ directories
